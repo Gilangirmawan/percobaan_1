@@ -8,3 +8,6 @@ informatic class hmpi
 - admin TE
 - postgresql
 - flaks
+- laravale
+- mysql
+
