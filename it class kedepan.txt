@@ -5,5 +5,9 @@ informatic class hmpi
 - Python
   * Django 4.2175
 - C14
+- admin TE
+- postgresql
+- flaks
 - laravale
 - mysql
+
