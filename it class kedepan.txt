@@ -3,4 +3,5 @@ informatic class hmpi
   * Figma
 - PHP
 - Python
+  * Django 4.2175
 - C14
