@@ -10,4 +10,5 @@ informatic class hmpi
 - flaks
 - laravale
 - mysql
+- depo
 
